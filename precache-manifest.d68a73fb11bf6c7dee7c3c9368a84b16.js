@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b35f33e8ceaef9e7f34febd38a4e9a8",
+    "revision": "d4c9cfaeb74ed908e35e5a9af5566055",
     "url": "/node-api-challenge/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-api-challenge/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "a1301697a7fe80b43ed4",
-    "url": "/node-api-challenge/static/css/main.01dadc13.chunk.css"
+    "revision": "9eefe92916603e78eba8",
+    "url": "/node-api-challenge/static/css/main.0a015db8.chunk.css"
   },
   {
     "revision": "463dc769b9bcdc3cb34b",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-api-challenge/static/js/2.5f5e7f98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1301697a7fe80b43ed4",
-    "url": "/node-api-challenge/static/js/main.786367f1.chunk.js"
+    "revision": "9eefe92916603e78eba8",
+    "url": "/node-api-challenge/static/js/main.c1ddd620.chunk.js"
   },
   {
     "revision": "851d6d90118bfd80095e",
