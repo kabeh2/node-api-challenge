@@ -1,0 +1,26 @@
+.App {
+  height: 100vh;
+}
+
+h3 {
+  color: #17a2b8;
+}
+
+.navbar-nav a {
+  color: #17a2b8;
+}
+
+.navbar-nav .selected {
+  font-weight: bolder;
+  color: #17a2b8;
+}
+
+.selected-btn {
+  background-color: #17a2b8;
+  border-radius: 0.25em;
+}
+
+.selected-btn button {
+  color: #fff;
+  font-weight: bolder;
+}
