@@ -1,6 +1,7 @@
 const debug = require("debug")("app:dev");
 const helmet = require("helmet");
 const logger = require("./middleware/logger");
+const cors = require("cors");
 const projects = require("./routes/projects");
 const actions = require("./routes/actions");
 const express = require("express");
@@ -11,6 +12,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
 app.use(helmet());
+app.use(cors());
 
 // Middleware
 if (app.get("env") === "development") {
