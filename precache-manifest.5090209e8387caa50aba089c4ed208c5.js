@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b35f33e8ceaef9e7f34febd38a4e9a8",
+    "revision": "e374a05b324ee52ea8d860f6dcf1d749",
     "url": "/node-api-challenge/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-api-challenge/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "a1301697a7fe80b43ed4",
+    "revision": "059bdca8356c590e0d86",
     "url": "/node-api-challenge/static/css/main.01dadc13.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-api-challenge/static/js/2.5f5e7f98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1301697a7fe80b43ed4",
-    "url": "/node-api-challenge/static/js/main.786367f1.chunk.js"
+    "revision": "059bdca8356c590e0d86",
+    "url": "/node-api-challenge/static/js/main.75e7b8bc.chunk.js"
   },
   {
     "revision": "851d6d90118bfd80095e",
