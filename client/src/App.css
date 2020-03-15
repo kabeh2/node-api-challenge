@@ -24,3 +24,9 @@ h3 {
   color: #fff;
   font-weight: bolder;
 }
+
+@media (max-width: 480px) {
+  .navbar-brand {
+    display: none;
+  }
+}

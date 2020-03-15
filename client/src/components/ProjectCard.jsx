@@ -17,7 +17,7 @@ function ProjectCard({ projects, allProjects, deleteProject }) {
   return (
     <Card className="mb-4">
       <Card.Header className="d-flex justify-content-between align-items-center">
-        <div style={{ flexBasis: "60%" }}>{projects.name}</div>
+        <div style={{ flexBasis: "45%" }}>{projects.name}</div>
         {!projects.actions && (
           <div>
             <Link
