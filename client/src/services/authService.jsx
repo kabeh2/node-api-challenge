@@ -1,1 +1,1 @@
-export const apiEndpoint = `http://localhost:3001/api`;
+export const apiEndpoint = `https://node-api-challenge-kabeh2.herokuapp.com/api`;

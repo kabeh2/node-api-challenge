@@ -6,7 +6,10 @@
   "scripts": {
     "db:seed": "knex seed:run",
     "server": "export NODE_ENV=development && export DEBUG=app:dev && nodemon index.js",
-    "start": "export NODE_ENV=development && export DEBUG=app:dev && node index.js"
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.16.1"
   },
   "repository": {
     "type": "git",
@@ -20,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/LambdaSchool/node-api-challenge/issues"
   },
-  "homepage": "https://github.com/LambdaSchool/node-api-challenge#readme",
+  "homepage": "https://github.com/kabeh2/node-api-challenge#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "debug": "^4.1.1",
